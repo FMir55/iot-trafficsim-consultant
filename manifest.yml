@@ -1,0 +1,9 @@
+applications:
+- host: FMir55
+  disk: 128M
+  name: FMir55 
+  command: node app.js
+  path: .
+  domain: mybluemix.net
+  mem: 128M
+  instances: 5
